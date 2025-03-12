@@ -76,7 +76,6 @@ def extract_text(file_path):
 # Prepare Data ------------------------------------------------------------------
 
 # uncomment code below to run helper.py to clean and extract data from PDFs 
-# (without using pdf_cleaning.ipynb)
 
 # # file path for all research paper PDFs
 # file_paths = ["raw-data/1. A review of deep learning-based stereo vision techniques.pdf",
